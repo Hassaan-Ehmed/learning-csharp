@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hassan\\source\\repos\\AnotherFile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E897AB4E-3977-43E2-8280-681E6C33824E}|AnotherFile\\AnotherFile.csproj|c:\\users\\hassan\\source\\repos\\anotherfile\\anotherfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E897AB4E-3977-43E2-8280-681E6C33824E}|AnotherFile\\AnotherFile.csproj|solutionrelative:anotherfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E897AB4E-3977-43E2-8280-681E6C33824E}|AnotherFile\\AnotherFile.csproj|c:\\users\\hassan\\source\\repos\\anotherfile\\anotherfile\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E897AB4E-3977-43E2-8280-681E6C33824E}|AnotherFile\\AnotherFile.csproj|solutionrelative:anotherfile\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\AnotherFile\\AnotherFile\\Messages.cs",
+              "RelativeDocumentMoniker": "AnotherFile\\Messages.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\AnotherFile\\AnotherFile\\Messages.cs",
+              "RelativeToolTip": "AnotherFile\\Messages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:46:45.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\AnotherFile\\AnotherFile\\Program.cs",
+              "RelativeDocumentMoniker": "AnotherFile\\Program.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\AnotherFile\\AnotherFile\\Program.cs",
+              "RelativeToolTip": "AnotherFile\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:40:02.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Hassan\source\repos\guessinggame\guessinggame\bin\Debug\net8.0\guessinggame.exe
+C:\Users\Hassan\source\repos\guessinggame\guessinggame\bin\Debug\net8.0\guessinggame.deps.json
+C:\Users\Hassan\source\repos\guessinggame\guessinggame\bin\Debug\net8.0\guessinggame.runtimeconfig.json
+C:\Users\Hassan\source\repos\guessinggame\guessinggame\bin\Debug\net8.0\guessinggame.dll
+C:\Users\Hassan\source\repos\guessinggame\guessinggame\bin\Debug\net8.0\guessinggame.pdb
+C:\Users\Hassan\source\repos\guessinggame\guessinggame\obj\Debug\net8.0\guessinggame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan\source\repos\guessinggame\guessinggame\obj\Debug\net8.0\guessinggame.AssemblyInfoInputs.cache
+C:\Users\Hassan\source\repos\guessinggame\guessinggame\obj\Debug\net8.0\guessinggame.AssemblyInfo.cs
+C:\Users\Hassan\source\repos\guessinggame\guessinggame\obj\Debug\net8.0\guessinggame.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\source\repos\guessinggame\guessinggame\obj\Debug\net8.0\guessinggame.dll
+C:\Users\Hassan\source\repos\guessinggame\guessinggame\obj\Debug\net8.0\refint\guessinggame.dll
+C:\Users\Hassan\source\repos\guessinggame\guessinggame\obj\Debug\net8.0\guessinggame.pdb
+C:\Users\Hassan\source\repos\guessinggame\guessinggame\obj\Debug\net8.0\guessinggame.genruntimeconfig.cache
+C:\Users\Hassan\source\repos\guessinggame\guessinggame\obj\Debug\net8.0\ref\guessinggame.dll

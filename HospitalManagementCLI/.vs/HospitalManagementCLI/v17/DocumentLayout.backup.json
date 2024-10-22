@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hassan\\source\\repos\\HospitalManagementCLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5554B9AF-CB52-477B-9787-238C6A26CA89}|HospitalManagementCLI\\HospitalManagementCLI.csproj|c:\\users\\hassan\\source\\repos\\hospitalmanagementcli\\hospitalmanagementcli\\hms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5554B9AF-CB52-477B-9787-238C6A26CA89}|HospitalManagementCLI\\HospitalManagementCLI.csproj|solutionrelative:hospitalmanagementcli\\hms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5554B9AF-CB52-477B-9787-238C6A26CA89}|HospitalManagementCLI\\HospitalManagementCLI.csproj|c:\\users\\hassan\\source\\repos\\hospitalmanagementcli\\hospitalmanagementcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5554B9AF-CB52-477B-9787-238C6A26CA89}|HospitalManagementCLI\\HospitalManagementCLI.csproj|solutionrelative:hospitalmanagementcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\HospitalManagementCLI\\HospitalManagementCLI\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagementCLI\\Program.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\HospitalManagementCLI\\HospitalManagementCLI\\Program.cs",
+              "RelativeToolTip": "HospitalManagementCLI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:39:49.215Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hms.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\HospitalManagementCLI\\HospitalManagementCLI\\Hms.cs",
+              "RelativeDocumentMoniker": "HospitalManagementCLI\\Hms.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\HospitalManagementCLI\\HospitalManagementCLI\\Hms.cs*",
+              "RelativeToolTip": "HospitalManagementCLI\\Hms.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:44:05.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

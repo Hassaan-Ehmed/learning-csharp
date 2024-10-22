@@ -1,0 +1,14 @@
+C:\Users\Hassan\source\repos\HospitalManagementCLI\HospitalManagementCLI\bin\Debug\net8.0\HospitalManagementCLI.exe
+C:\Users\Hassan\source\repos\HospitalManagementCLI\HospitalManagementCLI\bin\Debug\net8.0\HospitalManagementCLI.deps.json
+C:\Users\Hassan\source\repos\HospitalManagementCLI\HospitalManagementCLI\bin\Debug\net8.0\HospitalManagementCLI.runtimeconfig.json
+C:\Users\Hassan\source\repos\HospitalManagementCLI\HospitalManagementCLI\bin\Debug\net8.0\HospitalManagementCLI.dll
+C:\Users\Hassan\source\repos\HospitalManagementCLI\HospitalManagementCLI\bin\Debug\net8.0\HospitalManagementCLI.pdb
+C:\Users\Hassan\source\repos\HospitalManagementCLI\HospitalManagementCLI\obj\Debug\net8.0\HospitalManagementCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan\source\repos\HospitalManagementCLI\HospitalManagementCLI\obj\Debug\net8.0\HospitalManagementCLI.AssemblyInfoInputs.cache
+C:\Users\Hassan\source\repos\HospitalManagementCLI\HospitalManagementCLI\obj\Debug\net8.0\HospitalManagementCLI.AssemblyInfo.cs
+C:\Users\Hassan\source\repos\HospitalManagementCLI\HospitalManagementCLI\obj\Debug\net8.0\HospitalManagementCLI.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\source\repos\HospitalManagementCLI\HospitalManagementCLI\obj\Debug\net8.0\HospitalManagementCLI.dll
+C:\Users\Hassan\source\repos\HospitalManagementCLI\HospitalManagementCLI\obj\Debug\net8.0\refint\HospitalManagementCLI.dll
+C:\Users\Hassan\source\repos\HospitalManagementCLI\HospitalManagementCLI\obj\Debug\net8.0\HospitalManagementCLI.pdb
+C:\Users\Hassan\source\repos\HospitalManagementCLI\HospitalManagementCLI\obj\Debug\net8.0\HospitalManagementCLI.genruntimeconfig.cache
+C:\Users\Hassan\source\repos\HospitalManagementCLI\HospitalManagementCLI\obj\Debug\net8.0\ref\HospitalManagementCLI.dll
